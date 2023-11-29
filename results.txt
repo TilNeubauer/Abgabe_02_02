@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-883626P
+Date of Test: 2023-11-29 16:30:07
+Bubble Sort Time: 8.659844 seconds
+Quick Sort Time: 0.021528 seconds
+
