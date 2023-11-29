@@ -2,4 +2,8 @@ Computer Name: DESKTOP-883626P
 Date of Test: 2023-11-29 16:37:34
 Bubble Sort Time: 8.163444 seconds
 Quick Sort Time: 0.018505 seconds
+Computer Name: Til_Laptop
+Date of Test: 2023-11-29 16:37:25
+Bubble Sort Time: 2.887269 seconds
+Quick Sort Time: 0.012873 seconds
 
