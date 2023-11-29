@@ -1,5 +1,0 @@
-Computer Name: Til_Laptop
-Date of Test: 2023-11-29 16:31:45
-Bubble Sort Time: 4.817188 seconds
-Quick Sort Time: 0.021429 seconds
-
